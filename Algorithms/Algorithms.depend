@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621622204 source:/home/ilya/Repos/Algorithms/Algorithms/main.cpp
+	<iostream>
+
+1621624486 source:/home/ilya/Repos/Algorithms/Algorithms/running_sum.cpp
+	<iostream>
+	<vector>
+
