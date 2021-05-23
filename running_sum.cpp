@@ -12,6 +12,7 @@ public:
     }
 };
 
-int main(){
-    cout<<"Start program execution"<<endl;
-};
+int main() {
+    cout<<"Executing the program"<<endl;
+    return 0;
+}
