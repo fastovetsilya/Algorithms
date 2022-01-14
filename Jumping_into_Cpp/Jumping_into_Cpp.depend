@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642133398 source:/home/ilya/Repos/Algorithms/Jumping_into_Cpp/recursion.cpp
+	<stdio.h>
+	<iostream>
+
