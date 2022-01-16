@@ -1,0 +1,23 @@
+#ifndef SAMPLE_CLASS_
+#define SAMPLE_CLASS_
+
+
+class sample_class
+{
+    public:
+        sample_class();
+        virtual ~sample_class();
+
+        unsigned int Getm_Counter() { return m_Counter; }
+        void Setm_Counter(unsigned int val) { m_Counter = val; }
+        unsigned int GetCounter() { return a_Counter; }
+        void SetCounter(unsigned int val) { a_Counter = val; }
+
+    protected:
+
+    private:
+        unsigned int m_Counter;
+        unsigned int a_Counter;
+};
+
+#endif // SAMPLE_CLASS_

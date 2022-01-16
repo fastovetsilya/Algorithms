@@ -1,5 +1,10 @@
 # depslib dependency file v1.0
-1642133398 source:/home/ilya/Repos/Algorithms/Jumping_into_Cpp/recursion.cpp
+1642288522 source:/home/ilya/Repos/Algorithms/Jumping_into_Cpp/recursion.cpp
 	<stdio.h>
+	<iostream>
+
+1642287772 source:/home/ilya/Repos/Algorithms/Jumping_into_Cpp/linked_list.cpp
+
+1642288103 source:/home/ilya/Repos/Algorithms/Jumping_into_Cpp/pointers.cpp
 	<iostream>
 
