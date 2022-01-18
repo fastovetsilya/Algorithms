@@ -33,8 +33,20 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="binary_tree.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="debugger_crashes.cpp" />
+		<Unit filename="debugger_value.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="include/sample_class." />
-		<Unit filename="linked_list.cpp" />
+		<Unit filename="linked_list.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="pointers.cpp">
 			<Option compile="0" />
 			<Option link="0" />
